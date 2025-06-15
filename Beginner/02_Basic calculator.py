@@ -17,7 +17,7 @@ if choice == '1':
     result = first_number + second_number
     print(f'Result: {first_number} + {second_number} = {result}')
 elif choice == '2':
-    result = first_number - num2
+    result = first_number - second_number
     print(f"Result: {first_number} - {second_number} = {result}")
 
 elif choice == '3':
